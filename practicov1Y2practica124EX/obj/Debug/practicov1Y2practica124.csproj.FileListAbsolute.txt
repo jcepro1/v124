@@ -1,0 +1,18 @@
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\PRACTICA\1ER PARCIAL\practicov1Y2practica124\obj\Debug\practicov1Y2practica124.csprojResolveAssemblyReference.cache
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\PRACTICA\1ER PARCIAL\practicov1Y2practica124\obj\Debug\practicov1Y2practica124.Form1.resources
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\PRACTICA\1ER PARCIAL\practicov1Y2practica124\obj\Debug\practicov1Y2practica124.Properties.Resources.resources
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\PRACTICA\1ER PARCIAL\practicov1Y2practica124\obj\Debug\practicov1Y2practica124.csproj.GenerateResource.Cache
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\PRACTICA\1ER PARCIAL\practicov1Y2practica124\bin\Debug\practicov1Y2practica124.exe.config
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\PRACTICA\1ER PARCIAL\practicov1Y2practica124\bin\Debug\practicov1Y2practica124.exe
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\PRACTICA\1ER PARCIAL\practicov1Y2practica124\bin\Debug\practicov1Y2practica124.pdb
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\PRACTICA\1ER PARCIAL\practicov1Y2practica124\obj\Debug\practicov1Y2practica124.exe
+E:\GRABACIONES - MATERIAS VARIAS CUARENTENA\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\PRACTICA\1ER PARCIAL\practicov1Y2practica124\obj\Debug\practicov1Y2practica124.pdb
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\practicov1Y2practica124EX\obj\Debug\practicov1Y2practica124.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\practicov1Y2practica124EX\obj\Debug\practicov1Y2practica124.Form1.resources
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\practicov1Y2practica124EX\obj\Debug\practicov1Y2practica124.Properties.Resources.resources
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\practicov1Y2practica124EX\obj\Debug\practicov1Y2practica124.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\practicov1Y2practica124EX\obj\Debug\practicov1Y2practica124.exe
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\practicov1Y2practica124EX\obj\Debug\practicov1Y2practica124.pdb
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\practicov1Y2practica124EX\bin\Debug\practicov1Y2practica124.exe.config
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\practicov1Y2practica124EX\bin\Debug\practicov1Y2practica124.exe
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\practicov1Y2practica124EX\bin\Debug\practicov1Y2practica124.pdb
